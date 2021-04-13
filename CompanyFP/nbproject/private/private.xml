@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/jTable/jTable.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/dao/UserDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/servlet/StudentController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/js/modernizr-2.6.2.min.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/util/MySqlConexion.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/js/jquery.min.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/servlet/UserController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/login.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/ws/rest/StudentWebServiceRest.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/service/StudentService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/js/jquery.placeholder.min.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/sign-up.html</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/jTable.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/js/respond.min.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/servlet/StudentJTableController.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/dao/factory/MySqlDAOFactory.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/index.html</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/dao/beans/JSONApp.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/js/jquery.waypoints.min.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/dao/beans/User.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/util/DBUtility.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/jTable/js/jquery.jtable.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/service/UserService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/sign-up.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/ws/rest/config/ApplicationConfig.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/mainintranet.jsp</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/left-sidebar.html</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/ws/rest/UserWebServiceRest.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/js/main.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/src/java/com/dao/factory/DAOFactory.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/js/bootstrap.min.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CompanyFP/web/login/index.html</file>
+        </group>
+    </open-files>
+</project-private>
